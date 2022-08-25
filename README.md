@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new languages and tech stacks.**
 
-- ⚡ In my free time, **I like to hang out with my dog, play video games, and go hiking!**
+- ⚡ In my free time, **I like to hang out with my dog, play video games, and watch movies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
