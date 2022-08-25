@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shnguyen8&label=Profile%20views&color=0e75b6&style=flat" alt="shnguyen8" /> </p>
 
+- 🔭 I’m currently working on [Pup Track](https://github.com/shnguyen8/pup-track/)
+
 - 🌱 I’m currently learning **new languages and tech stacks.**
+
+- ⚡ In my free time, **I like to hang out with my dog, play video games, and go hiking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
